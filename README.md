@@ -1,7 +1,7 @@
 # Hi 👋 I'm Axliyor
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&width=700&lines=Android+App+Developer;Web+Developer;C%2B%2B+Programmer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&width=700&lines=Always+Learning+New+Things;Android+App+Developer;Web+Developer;C%2B%2B+Programmer" />
 </p>
 
 ---
@@ -59,15 +59,6 @@
 <img src="https://streak-stats.demolab.com?user=Axliyor-uz&theme=radical&hide_border=true" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Axliyor-uz/Axliyor-uz/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -89,8 +80,6 @@
 * Exploring **cloud and Firebase backends**
 
 ---
-
-## ⚡ Fun Animations
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=500&color=FFDD00&center=true&vCenter=true&width=600&lines=Code;Learn;Build;Share;Repeat" />
